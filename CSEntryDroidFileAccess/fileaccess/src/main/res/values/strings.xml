@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CSEntryDroidFileAccess</string>
+    <string name="SERVER_PACKAGE_NAME">gov.census.cspro.csentry</string>
+    <string name="SERVER_ACTIVITY_NAME">gov.census.cspro.fileshare.FileShareActivity</string>
+</resources>
