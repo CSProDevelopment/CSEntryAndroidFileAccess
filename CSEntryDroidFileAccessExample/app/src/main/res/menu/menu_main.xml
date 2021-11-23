@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="gov.census.cspro.csentry.fileaccessexample.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        android:visible="false"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_csentry"
+        android:title="csentry folder"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_local"
+        android:title="local files folder"
+        app:showAsAction="never" />
+</menu>
